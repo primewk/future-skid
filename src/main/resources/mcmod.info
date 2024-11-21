@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "cracked",
+    "name": "Cracked",
+    "description": "1.12.2 PvP Hack Client",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "logoFile": "carcked.png",
+    "url": "https://www.youtube.com/@XG2025",
+    "updateUrl": "",
+    "authorList": [
+      "Akaishin, AnarchyGooD"
+    ],
+    "screenshots": [cracked.png],
+    "dependencies": []
+  }
+]
